@@ -24,7 +24,6 @@ The dataset used in this project is **synthetic**.
 
 * spam_classifier.py — Main script
 * email_dataset.xlsx — Synthetic dataset
-* requirements.txt — Python dependencies
 
 
 ## Requirements
